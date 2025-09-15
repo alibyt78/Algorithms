@@ -11,7 +11,7 @@ int binarySearch(int arr[], int l, int r, int x) {
             r = m - 1;
     }
     return -1;
-}
+} //new comment added on 15th september
 
 int main() {
     int arr[] = {2, 3, 4, 10, 40};
